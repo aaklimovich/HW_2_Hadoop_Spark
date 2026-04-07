@@ -48,7 +48,7 @@ https://www.kaggle.com/datasets/dhrubangtalukdar/telco-customer-churn-data
 
 |  График 1 | График 2 |
 |----------|----------|
-|  ![time](logs\time.png) | ![ram](logs\ram.png) |
+|  ![time](logs/time.png) | ![ram](logs/ram.png) |
 
 ## Анализ результатов
 
